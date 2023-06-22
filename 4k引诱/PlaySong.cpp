@@ -120,7 +120,7 @@ bool PlaySong::TapInGreat(Tap* tap) {
 }
 // 25ms ÒÔÄÚ.
 bool PlaySong::TapInPerfect(Tap* tap) {
-    return TapInTime(tap, 0.02);
+    return TapInTime(tap, 0.025);
 }
 
 bool PlaySong::TapInTime(Tap* tap, float time) {
