@@ -1,2 +1,6 @@
-# 4K-Rhythm-Game
-A simple 4k rhythm game made by GDI. Just a toy.
+# 4K Rhythm Game
+一个简单的 4K 音游（或许都算不上）...玩玩 GDI.
+所有素材都来自网络...
+
+自左向右按键以此为 D、F、J、K.
+50ms~100ms 以内得 1 分，25ms~50ms 得 2 分，25ms 以内得 3 分.
